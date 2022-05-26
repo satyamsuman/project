@@ -1,0 +1,61 @@
+*{
+    box-sizing: content-box;
+   
+}
+body{
+    background: url("nf/micah-williams-lmFJOx7hPc4-unsplash.jpg");
+    background-size: 90%;
+    border-radius: 5px;
+    
+}
+div.container{
+    width: 400px;
+    height: 450px;
+    background-color: rgba(255, 252, 252, 0.92);
+    margin-top: 50px;
+    margin-left: 950px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    padding: 4px;
+    
+
+}
+h1{
+    text-align: center;
+    color: rgba(0, 162, 255, 0.612);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type="text"],
+input[type="password"]{
+    width: 80%;
+    padding: 8px;
+    margin-left: 35px;
+    border: 1.5px lightblue solid;
+}
+p{
+    margin-left: 30px;
+}
+input[type="submit"]{
+    width: 80%;
+    padding: 8px;
+    background-color: aquamarine;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 35px;
+    
+}
+input[type="submit"]:hover{
+   
+    background-color: aqua;  
+}
+.member{
+    color: cadetblue;
+    margin-left: 285px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
